@@ -1,0 +1,138 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.back-i {
+  background-image: url(/Img/Iceberg.jpg);
+  background-size: cover;
+  background-position: center;
+}
+
+.bc-blue {
+  background-color: #0f0f7eab;
+}
+
+.Arrow {
+  padding-top: 80px;
+}
+.Arrow i {
+  justify-content: center;
+  font-size: 35px;
+  color: white;
+}
+
+.Arrow i:hover {
+  color: #ffc107;
+}
+a {
+  text-decoration: none;
+}
+
+.row .card img {
+  width: 100px;
+  height: 100px;
+  padding: 20px;
+}
+.width-120 {
+  width: 120px !important;
+}
+.line {
+  height: 5px;
+  width: 70px;
+}
+.bg-grey {
+  background-color: #f3f4f8;
+}
+.bord {
+  border: none;
+}
+
+.fl::first-letter {
+  font-size: 100px;
+  font-weight: bold;
+}
+.word-space {
+  word-spacing: 80px;
+}
+.head-text {
+  width: 70%;
+  margin: auto;
+}
+.heig {
+  height: 400px;
+}
+
+.wh {
+  width: 100%;
+  height: 264px;
+}
+
+.background {
+  background-image: url(/Img/towers.jfif);
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 400px;
+  background-size: cover;
+}
+
+.caruselcontent {
+  height: 400px;
+  background-color: #4719a1e8;
+}
+.carousel-indicators [data-bs-target] {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+}
+
+.author-img {
+  border: 5px solid #fff;
+  border-radius: 50%;
+  height: 80px;
+  width: 80px;
+}
+
+blockquote::before {
+  content: open-quote;
+  bottom: 50%;
+  left: 10%;
+  font-size: 5rem;
+  position: absolute;
+  color: white;
+}
+blockquote::after {
+  content: close-quote;
+  bottom: 10%;
+  right: 10%;
+  font-size: 5rem;
+  position: absolute;
+  color: white;
+}
+
+blockquote{
+  width: 60%;
+}
+
+.mycard img{
+  height: 300px !important;
+}
+.mycard{
+  border: none;
+}
+
+.mycard a{
+  color: black;
+}
+
+.bg-darkblue{
+ background-color: #6c6c8f;
+}
+.Message{
+  height: 200px;
+}
+.messagearea{
+  color: #787878;
+}
+.myforms{
+  height: 38px;
+}
