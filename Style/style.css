@@ -3,7 +3,7 @@ html {
 }
 
 .back-i {
-  background-image: url(/Img/Iceberg.jpg);
+  background-image: url(../Img/Iceberg.jpg);
   background-size: cover;
   background-position: center;
 }
@@ -68,7 +68,7 @@ a {
 }
 
 .background {
-  background-image: url(/Img/towers.jfif);
+  background-image: url(../Img/towers.jfif);
   background-repeat: no-repeat;
   background-position: center;
   height: 400px;
