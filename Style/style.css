@@ -3,7 +3,7 @@ html {
 }
 
 .back-i {
-  background-image: url(../Img/Iceberg.jpg);
+  background-image: url('../Img/Iceberg.jpg');
   background-size: cover;
   background-position: center;
 }
